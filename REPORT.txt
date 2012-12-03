@@ -11,4 +11,4 @@ On crée un variable size, puis on utilise dans add
 5.
 
 
-trololo mais nan
+trololo
