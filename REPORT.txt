@@ -1,0 +1,14 @@
+﻿Exercice n°2 
+
+1. java -cp ./classes fr.umlv.data.main.Main 
+-cp -> class path
+
+2. Si l'indice est invalide on envoi une exception.
+On crée un variable size, puis on utilise dans add
+
+4. On doit caster
+
+5.
+
+
+trololo
